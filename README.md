@@ -1,12 +1,4 @@
-# Resume Score
-## A platform for checking and editing your resume to qualify for job's description or get job suggestions matching your resume.
-=========
 
-## Visit the website on: https://Resume Scanner2020.herokuapp.com/
-
-
-
-## --------------------------------------------
 
 A project built by Lighthouse Labs students.
 
