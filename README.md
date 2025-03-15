@@ -9,8 +9,6 @@ Please enjoy our application and get hired!
 ## Screenshots
 <img src="https://raw.githubusercontent.com/codertyler/final_project_LHL/master/ResumeX/src/assets/app-imgs/Resume Scanner_demo.gif" width="800">
 
-
-
 <img src="https://raw.githubusercontent.com/codertyler/final_project_LHL/master/ResumeX/src/assets/app-imgs/Resume Scanner-home.png" width="800">
 <img src="https://raw.githubusercontent.com/codertyler/final_project_LHL/master/ResumeX/src/assets/app-imgs/Resume Scanner-jobsearch.png" width="800">
 
