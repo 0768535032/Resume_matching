@@ -2,10 +2,6 @@ A project built by Lighthouse Labs students.
 
 Resume Scanner allows users to upload job description and resume and get results whether your resume qualifies for the job! You can also get job suggestions matching your resume. It is user friendly and uses modern frameworks such as React, css, express and more!
 
-Please enjoy our application and get hired!
-
----  Built by: Tyler Asai, Jay Ho and Sher Arsalaie. ---
-
 ## Screenshots
 <img src="https://raw.githubusercontent.com/codertyler/final_project_LHL/master/ResumeX/src/assets/app-imgs/Resume Scanner_demo.gif" width="800">
 
